@@ -1,0 +1,53 @@
+Body{
+	background-image: url("../imagens/Plano_de_fundo4.jpg");
+}
+#banner{
+	background-image: url("../imagens/banner3.jpg");
+	width: 940px;
+	height: 250px;
+}
+#menu{
+	background: #808080;
+	min-height: 40px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+}
+#menu ul li{
+	list-style: none;
+	display: inline;
+	margin-left: 20px;
+	margin-right: 40px;
+}
+#menu ul li a{
+	color: white;
+	text-decoration: none;
+}
+#menu ul li a:hover{
+	color: red;
+	font-size: 20px;
+}
+#col_esq{
+	background: #808080;
+	max-width: 600px;
+}
+
+#col_esq ul li a{
+	text-decoration: none;
+	color:white;
+}
+#col_esq ul li a:hover{
+	color:red;
+	font-size: 20px;
+}
+#central{
+	background: #808080;
+	min-height: 600px;
+	text-align: none;
+}
+#rodape{
+	text-align: center;
+	min-height: 150px;
+	margin-top:10px;
+	background: #808080;
+}
